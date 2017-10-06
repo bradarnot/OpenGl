@@ -1,0 +1,12 @@
+Bradley Arnot
+
+Key bindings
+Orthogonal and Perspective:
+  arrows     Change view angle
+  0          Reset view angle
+  ESC        Exit
+
+First Person:
+  arrows	Move camera
+  w/s		Increase/decrease pitch of camera
+  a/d 		Increase/decrease rotation of camera

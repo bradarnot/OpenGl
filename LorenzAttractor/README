@@ -1,0 +1,13 @@
+Lorenz Attractor
+Bradley Arnot
+
+Instructions:
+r to set change mode to change parameter r
+s to set change mode to change parameter s
+b to set change mode to change parameter b
+(parameter being changed will be printed at the bottom of the screen)
+
++/- to increase/decrease parameter set in the change mode
+
+arrow keys to rotate the lorenz attractor
+esc to exit the program
